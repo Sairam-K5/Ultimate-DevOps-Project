@@ -128,33 +128,43 @@ terraform apply
 
 ---
 
+# Documentation Index
 
-## Documentation
+This project contains detailed technical documentation for every DevOps component implemented.  
+For complete walkthroughs, screenshots, architecture diagrams, and explanations, please refer to the **[`docs/`](./docs/)** folder.
 
-All detailed technical documentation lives in the 'docs/' directory:
+The documentation covers:
 
-- Architecture Overview
-- Infrastructure Details
-- CI/CD Pipeline
-- GitOps with ArgoCD
-- Microservices Overview
-- Kubernetes Notes
-- Networking & DNS
-- Deployment Guide
+- **Architecture Overview**
+- **Infrastructure Details (Terraform + AWS)**
+- **CI/CD Pipeline (GitHub Actions)**
+- **GitOps with ArgoCD**
+- **Microservices Overview**
+- **Kubernetes (EKS) Notes**
+- **Networking & DNS (VPC, ALB, Route53)**
+- **Deployment Guide**
+- **Docker Containerization Overview**
+- **Troubleshooting**
+- **Application UI Screenshots**
 
-## What This Project Shows About Me
+Each document includes real execution screenshots to prove the implementation and workflow.
 
-This project demonstrates:
 
-- Ability to design and work with multi-language microservices
-- Strong Docker & Kubernetes expertise
-- Practical CI/CD implementation in GitHub Actions
-- Experience writing production-grade Kubernetes manifests
-- Ability to document systems clearly and professionally
-- Understanding of cloud architecture patterns
-- Skills in observability, distributed tracing, and system reliability
-- Capability to design Terraform-based IaC for scalable infra
-- A strong professional workflow used in real DevOps teams
+
+# What This Project Demonstrates About Me
+
+This project highlights my hands-on DevOps skills and end-to-end understanding of modern cloud-native systems:
+
+- Designing and deploying **multi-language microservices** architectures
+- Strong expertise with **Docker** and **Kubernetes** (EKS)
+- Building **CI/CD pipelines** using GitHub Actions
+- Implementing **GitOps** using ArgoCD for fully automated deployments
+- Writing production-grade **Kubernetes manifests**
+- Creating scalable cloud infrastructure using **Terraform**
+- Applying **AWS networking concepts** like VPC, Subnets, Route53 & ALB
+- Clear professional documentation and architectural thinking
+- Experience with **observability**, distributed tracing, and reliability engineering
+- Ability to work with real DevOps workflows used in modern engineering teams
 
 
 ---
