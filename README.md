@@ -131,7 +131,8 @@ terraform apply
 # Documentation Index
 
 This project contains detailed technical documentation for every DevOps component implemented.  
-For complete walkthroughs, screenshots, architecture diagrams, and explanations, please refer to the **[`docs/`](./docs/)** folder.
+For complete walkthroughs, screenshots, architecture diagrams, and explanations, please refer to the /docs folder.
+**[View Full Project Documentation](docs/)**
 
 The documentation covers:
 
